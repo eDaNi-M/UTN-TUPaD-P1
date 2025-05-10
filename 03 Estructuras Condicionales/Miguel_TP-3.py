@@ -115,7 +115,7 @@ else:
     else:
         estacion_norte10 = "Otoño"
         estacion_sur10 = "Primavera"
-
+        
 
     if hemisferio10 == "N":
         print(f"Estás en el hemisferio norte. La estación es: {estacion_norte10}.")
